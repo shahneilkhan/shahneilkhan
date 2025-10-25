@@ -61,7 +61,7 @@ Let's turn great ideas into smooth mobile experiences!
 
 
 
-### table
+### PROJECTS
 
 <table>
   <tr>
@@ -109,26 +109,20 @@ Let's turn great ideas into smooth mobile experiences!
 
 ## Tech Stack
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge)
-![Bloc](https://img.shields.io/badge/BLoC-4A3F35?style=for-the-badge&logo=flutter)
-![Provider](https://img.shields.io/badge/Provider-42A5F5?style=for-the-badge&logo=flutter)
-![Riverpod](https://img.shields.io/badge/Riverpod-5C3EE8?style=for-the-badge)
-![GetX](https://img.shields.io/badge/GetX-4CAF50?style=for-the-badge)
-![MobX](https://img.shields.io/badge/MobX-FF6600?style=for-the-badge)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)
-![Hive](https://img.shields.io/badge/Hive-FFC107?style=for-the-badge)
-![Dio](https://img.shields.io/badge/Dio-007ACC?style=for-the-badge)
-![Flutter Hooks](https://img.shields.io/badge/Flutter_Hooks-0277BD?style=for-the-badge)
-![Animations](https://img.shields.io/badge/Animations-FF4081?style=for-the-badge)
-![Widget Testing](https://img.shields.io/badge/Widget_Testing-4CAF50?style=for-the-badge)
-![Integration Testing](https://img.shields.io/badge/Integration_Testing-2196F3?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![CI/CD](https://img.shields.io/badge/CI/CD-blue?style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D7?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge)
 
 
 
