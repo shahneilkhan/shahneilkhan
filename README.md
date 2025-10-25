@@ -38,8 +38,9 @@
   <img src="https://raw.githubusercontent.com/shahneilkhan/Gellery/main/Frame%20427319534.svg" alt="Cover Image" width="400"/>
 </p>
 
-### cover
-![Cover Image](https://raw.githubusercontent.com/ishahneilkhan/gallery/main/Frame%2015.svg)
+### HTML
+![Cover Image](https://raw.githubusercontent.com/shahneilkhan/Gellery/main/Frame%20427319536.svg)
+
 
 
 
