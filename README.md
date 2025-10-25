@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/shahneilkhan/about">
+  <a href="(https://github.com/shahneilkhan)">
     <img src="https://img.shields.io/badge/About-2ecc71?style=for-the-badge&logo=about-dot-me&logoColor=white" />
   </a>
 
