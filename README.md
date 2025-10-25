@@ -35,7 +35,7 @@
 ### Cover
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shahneilkhan/Gellery/main/Frame%20427319534.svg" alt="Cover Image" width="800"/>
+  <img src="https://raw.githubusercontent.com/shahneilkhan/Gellery/main/Frame%20427319534.svg" alt="Cover Image" width="400"/>
 </p>
 
 
