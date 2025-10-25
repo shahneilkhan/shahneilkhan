@@ -32,16 +32,13 @@
 
 
 
-### Cover
+## SHAH NEIL KHAN | SNK 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/shahneilkhan/Gellery/main/Frame%20427319534.svg" alt="Cover Image" width="400"/>
 </p>
 
-
-
-## SHAH NEIL KHAN | SNK
-
+### cover
 ![Cover Image](https://raw.githubusercontent.com/ishahneilkhan/gallery/main/Frame%2015.svg)
 
 
