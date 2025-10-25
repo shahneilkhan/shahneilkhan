@@ -51,7 +51,7 @@ I'm a full-time **Flutter Developer** passionate about crafting sleek, high-perf
 I specialize in building cross-platform apps with clean UI/UX and robust functionality.  
 Let's turn great ideas into smooth mobile experiences!
 
-#### Link Poup
+#### YOUTUBE
 
 <p align="center">
   <a href="https://www.youtube.com/@Design2Codewithsnk" target="_blank">
