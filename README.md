@@ -1,11 +1,12 @@
 <p align="center">
-  <a href="https://github.com/ishahneilkhan/about">
+  <a href="https://github.com/shahneilkhan/about">
     <img src="https://img.shields.io/badge/About-2ecc71?style=for-the-badge&logo=about-dot-me&logoColor=white" />
   </a>
 
-  <a href="https://github.com/ishahneilkhan/html">
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  </a>
+  <a href="https://github.com/shahneilkhan/HTML">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</a>
+
 
   <a href="https://github.com/ishahneilkhan/css">
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
