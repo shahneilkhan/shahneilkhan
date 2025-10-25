@@ -35,7 +35,7 @@
 ## SHAH NEIL KHAN | SNK 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shahneilkhan/Gellery/main/Frame%20427319534.svg" alt="Cover Image" width="400"/>
+  <img src="https://raw.githubusercontent.com/shahneilkhan/Gellery/main/Frame%20427319534.svg" alt="Cover Image" width="1000"/>
 </p>
 
 ### HTML
@@ -43,7 +43,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shahneilkhan/Gellery/main/Frame%20427319536.svg" alt="Cover Image" width="1000"/>
+  <img src="https://raw.githubusercontent.com/shahneilkhan/Gellery/main/Frame%20427319536.svg" alt="Cover Image" width="400"/>
 </p>
 
 
