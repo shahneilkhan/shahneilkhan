@@ -178,7 +178,7 @@ Highlight a few key repositories with descriptions and links:
 
 ### Icon 
 
-(https://github.com/ishahneilkhan/Gallery)
+(https://github.com/shahneilkhan/Gallery)
 
 
 
