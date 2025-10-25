@@ -2,8 +2,6 @@
   <a href="https://github.com/shahneilkhan">
     <img src="https://img.shields.io/badge/About-2ecc71?style=for-the-badge&logo=about-dot-me&logoColor=white" />
   </a>
-</p>
-
 
   <a href="https://github.com/shahneilkhan/HTML">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
