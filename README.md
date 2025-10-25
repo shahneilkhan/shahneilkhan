@@ -42,6 +42,12 @@
 ![Cover Image](https://raw.githubusercontent.com/shahneilkhan/Gellery/main/Frame%20427319536.svg)
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shahneilkhan/Gellery/main/Frame%20427319536.svg" alt="Cover Image" width="1000"/>
+</p>
+
+
+
 
 
 [![Follow @ishahneilkhan](https://img.shields.io/badge/Follow-@ishahneilkhan-black?style=for-the-badge&logo=github)](https://github.com/ishahneilkhan)
