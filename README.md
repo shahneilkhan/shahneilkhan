@@ -39,8 +39,6 @@
 </p>
 
 ### HTML
-![Cover Image](https://raw.githubusercontent.com/shahneilkhan/Gellery/main/Frame%20427319536.svg)
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/shahneilkhan/Gellery/main/Frame%20427319536.svg" alt="Cover Image" width="400"/>
