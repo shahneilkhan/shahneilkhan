@@ -268,15 +268,6 @@ Hi there! I am **Shah Neil Khan**, a **Full Stack MERN Developer** passionate ab
 I specialize in **MongoDB, Express, React, Node.js**, and building robust backend APIs with smooth frontend interfaces.  
 
 
-## 📺 YouTube Channel
-
-<p align="center">
-  <a href="https://www.youtube.com/@Design2Codewithsnk" target="_blank">
-    <img src="https://img.youtube.com/vi/kXrTMbOy9PM/maxresdefault.jpg" alt="Design2Code with SNK YouTube Channel" width="900"/>
-  </a>
-</p>
-
-
 ## 🚀 Projects / Portfolio
 
 | Project Name | Description | Link |
