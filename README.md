@@ -71,8 +71,31 @@ Let's turn great ideas into smooth mobile experiences!
   </a>
 </p>
 
+### Youtube Channel-
 
+<!-- Centered YouTube Channel Thumbnail -->
+<p align="center">
+  <a href="https://www.youtube.com/@design2codewithSNK" target="_blank">
+    <img src="https://img.youtube.com/vi/FBxMdX_99MQ/maxresdefault.jpg" 
+         alt="Design2Code with SNK YouTube Channel" 
+         width="900" 
+         style="border-radius: 12px; box-shadow: 0 6px 20px rgba(0,0,0,0.3);" />
+  </a>
+</p>
 
+<!-- Subscribe Button -->
+<p align="center">
+  <a href="https://www.youtube.com/@design2codewithSNK" target="_blank"
+     style="background-color:#FF0000;color:white;padding:12px 25px;text-decoration:none;
+            border-radius:6px;font-weight:bold;font-size:18px;box-shadow:0 4px 10px rgba(0,0,0,0.2);">
+    ▶ Subscribe Now
+  </a>
+</p>
+
+<!-- Caption -->
+<p align="center" style="font-style:italic;color:#555;margin-top:5px;">
+  Learn Flutter, Figma & UI/UX Design in Bangla
+</p>
 
 
 ### PROJECTS
