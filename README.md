@@ -210,52 +210,6 @@ Highlight a few key repositories with descriptions and links:
 (https://github.com/shahneilkhan/Gallery)
 
 
-<p align="center">
-  <a href="https://github.com/ishahneilkhan/HTML">
-    <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/ishahneilkhan/CSS">
-    <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/ishahneilkhan/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/ishahneilkhan/React">
-    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/ishahneilkhan/Node.js">
-    <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/ishahneilkhan/Express">
-    <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/ishahneilkhan/MongoDB">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/ishahneilkhan/REST-API">
-    <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/ishahneilkhan/GraphQL">
-    <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/ishahneilkhan/Git">
-    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/ishahneilkhan/GitHub">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/ishahneilkhan/Bootstrap">
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/ishahneilkhan/VS-Code">
-    <img src="https://img.shields.io/badge/VS_Code-0078D7?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/ishahneilkhan/NPM">
-    <img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
-
-
 ## 👋 About Me
 
 Hi there! I am **Shah Neil Khan**, a **Full Stack MERN Developer** passionate about creating dynamic and responsive web applications.  
