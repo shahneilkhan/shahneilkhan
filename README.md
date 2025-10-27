@@ -261,14 +261,12 @@ Highlight a few key repositories with descriptions and links:
   </a>
 </p>
 
----
 
 ## 👋 About Me
 
 Hi there! I am **Shah Neil Khan**, a **Full Stack MERN Developer** passionate about creating dynamic and responsive web applications.  
 I specialize in **MongoDB, Express, React, Node.js**, and building robust backend APIs with smooth frontend interfaces.  
 
----
 
 ## 📺 YouTube Channel
 
@@ -278,7 +276,6 @@ I specialize in **MongoDB, Express, React, Node.js**, and building robust backen
   </a>
 </p>
 
----
 
 ## 🚀 Projects / Portfolio
 
@@ -288,7 +285,7 @@ I specialize in **MongoDB, Express, React, Node.js**, and building robust backen
 | E-commerce App | MERN-based e-commerce web application | [Repo](https://github.com/ishahneilkhan/MERN-Ecommerce) |
 | Chat App | Real-time MERN chat application using Socket.io | [Repo](https://github.com/ishahneilkhan/MERN-Chat-App) |
 
----
+
 
 ## 📫 Connect With Me
 
@@ -297,7 +294,6 @@ I specialize in **MongoDB, Express, React, Node.js**, and building robust backen
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/iamsnkbd)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:thesnkgraphic@email.com)  
 
----
 
 *Thanks for visiting my profile! 😊*
 
