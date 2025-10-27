@@ -55,17 +55,6 @@ Let's turn great ideas into smooth mobile experiences!
 <a href="https://www.youtube.com/@design2codewithSNK" target="_blank">🎥 Visit My YouTube Channel</a>
 
 <p align="center">
-  <a href="https://www.youtube.com/@design2codewithSNK/featured" target="_blank">
-    <img src="https://img.youtube.com/vi/FBxMdX_99MQ/maxresdefault.jpg" 
-         alt="Design2Code with SNK YouTube Channel" 
-         width="900" 
-         style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" />
-  </a>
-</p>
-
-### Youtube Channel-
-
-<p align="center">
   <a href="https://www.youtube.com/watch?v=hfaQL5SmNB4" target="_blank">
     <img src="https://img.youtube.com/vi/hfaQL5SmNB4/maxresdefault.jpg" alt="How to create first flutter project in android studio 2024" width="900"/>
   </a>
