@@ -63,14 +63,6 @@ Let's turn great ideas into smooth mobile experiences!
   </a>
 </p>
 
-
-<p align="center">
-  🎥 <b>Subscribe Now:</b> 
-  <a href="https://www.youtube.com/@Design2CodewithSNK" target="_blank">
-    youtube.com/@Design2CodewithSNK
-  </a>
-</p>
-
 ### Youtube Channel-
 
 <!-- Centered YouTube Channel Thumbnail -->
