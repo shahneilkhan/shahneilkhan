@@ -211,12 +211,6 @@ Highlight a few key repositories with descriptions and links:
 
 
 <p align="center">
-  <a href="https://github.com/ishahneilkhan/Gellery/blob/main/Frame%20427319536.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/ishahneilkhan/Gellery/main/Frame%20427319536.svg" alt="Cover Image" width="900"/>
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/ishahneilkhan/HTML">
     <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   </a>
