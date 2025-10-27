@@ -52,14 +52,26 @@ I specialize in building cross-platform apps with clean UI/UX and robust functio
 Let's turn great ideas into smooth mobile experiences!
 
 #### YOUTUBE
+<a href="https://www.youtube.com/@design2codewithSNK" target="_blank">🎥 Visit My YouTube Channel</a>
+
 
 <p align="center">
-  <a href="https://www.youtube.com/@Design2Codewithsnk" target="_blank">
-    <img src="https://img.youtube.com/vi/kXrTMbOy9PM/maxresdefault.jpg" alt="Design2Code with SNK YouTube Channel" width="900"/>
+  <a href="https://www.youtube.com/@Design2CodewithSNK" target="_blank">
+    <img src="https://img.youtube.com/vi/kXrTMbOy9PM/maxresdefault.jpg" 
+         alt="Design2Code with SNK YouTube Channel"
+         width="900"
+         style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" />
   </a>
 </p>
 
-<a href="https://www.youtube.com/@design2codewithSNK" target="_blank">🎥 Visit My YouTube Channel</a>
+<p align="center">
+  🎥 <b>Subscribe Now:</b> 
+  <a href="https://www.youtube.com/@Design2CodewithSNK" target="_blank">
+    youtube.com/@Design2CodewithSNK
+  </a>
+</p>
+
+
 
 
 
