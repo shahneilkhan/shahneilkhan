@@ -236,9 +236,6 @@ I specialize in **MongoDB, Express, React, Node.js**, and building robust backen
 
 *Thanks for visiting my profile! 😊*
 
-## Screenshot / Cover
-
-<img src="https://raw.githubusercontent.com/shahneilkhan/ShopByCatagories/main/Screenshot_28.png" alt="{{ collection.title }}">
 
 # Shopify Category Slider Section
 
@@ -258,6 +255,10 @@ This is a **custom Shopify section** for displaying a category slider with the f
 - Fully Shopify compatible, no Liquid errors
 
 # Shopify Category Slider
+## Cover
+
+<img src="https://raw.githubusercontent.com/shahneilkhan/ShopByCatagories/main/Screenshot_28.png" alt="{{ collection.title }}">
+
 
 A **custom Shopify section** for displaying category icons in a responsive, interactive slider.  
 
