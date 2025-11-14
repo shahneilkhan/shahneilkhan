@@ -236,6 +236,10 @@ I specialize in **MongoDB, Express, React, Node.js**, and building robust backen
 
 *Thanks for visiting my profile! 😊*
 
+# Shopify Category Slider
+
+<img src="https://raw.githubusercontent.com/shahneilkhan/ShopByCatagories/main/Screenshot_28.png" alt="{{ collection.title }}">
+
 
 # Shopify Category Slider Section
 
@@ -254,18 +258,35 @@ This is a **custom Shopify section** for displaying a category slider with the f
 - Clean solid card design
 - Fully Shopify compatible, no Liquid errors
 
-# Shopify Category Slider
-## Cover
-
-<img src="https://raw.githubusercontent.com/shahneilkhan/ShopByCatagories/main/Screenshot_28.png" alt="{{ collection.title }}">
-
-
 A **custom Shopify section** for displaying category icons in a responsive, interactive slider.  
 
 This section is designed for Shopify stores to showcase categories or collections in a visually appealing slider.  
 Each block can have an optional icon/image, a title, and a link to the category page.  
 It’s fully responsive, mobile-friendly, and provides a clean hover zoom effect for better UX.  
 
+<section class="shop-by-category">
+  <div class="page-width">
+    <h2 class="title">Shop by Category</h2>
+    <div class="category-slider" id="autoScrollSlider">
+      {% for collection in collections %}
+        <div class="category-item">
+          <a href="{{ collection.url }}">
+            <div class="category-image">
+              {% if collection.image %}
+                <img src="{{ collection.image | img_url: 'medium' }}" alt="{{ collection.title }}">
+              {% else %}
+                <img src="https://raw.githubusercontent.com/shahneilkhan/ShopByCatagories/main/Screenshot_28.png" alt="{{ collection.title }}">
+              {% endif %}
+            </div>
+          </a>
+          <p class="category-title">{{ collection.title }}</p>
+          <!-- Link button -->
+          <a href="{{ collection.url }}" class="category-button" style="display:inline-block; padding:8px 12px; background:#007bff; color:#fff; border-radius:5px; text-decoration:none; margin-top:5px;">Shop Now</a>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
 
 
 
