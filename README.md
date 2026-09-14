@@ -1,266 +1,319 @@
 <p align="center">
-  <a href="https://github.com/shahneilkhan">
-    <img src="https://img.shields.io/badge/About-2ecc71?style=for-the-badge&logo=about-dot-me&logoColor=white" />
-  </a>
+  <img
+    src="https://raw.githubusercontent.com/shahneilkhan/asset/main/SNK%20LOGO.svg"
+    alt="SNK Logo"
+    width="140"
+  />
+</p>
 
-  <a href="https://github.com/shahneilkhan/HTML">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<h1 align="center">Shah Neil Khan — SNK</h1>
+
+<p align="center">
+  <strong>UX Lead Digital Expert · Product & Digital Experience · AI-Assisted Systems</strong>
+</p>
+
+<p align="center">
+  <a href="https://shahneilkhan.github.io/">
+    <img
+      src="https://img.shields.io/badge/🌐%20VISIT%20MY%20WEBSITE-Shah%20Neil%20Khan-000000?style=for-the-badge&labelColor=C99A45"
+      alt="Visit Shah Neil Khan Portfolio"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/shahneilkhan">GitHub</a> ·
+  <a href="https://www.linkedin.com/company/iamsnkbd">LinkedIn</a> ·
+  <a href="https://instagram.com/iamsnkbd">Instagram</a> ·
+  <a href="https://youtube.com/c/shahneilkhan">YouTube</a>
+</p>
+
+---
+
+## 🌐 My Website
+
+<p align="center">
+  <a href="https://shahneilkhan.github.io/">
+    <img
+      src="https://img.shields.io/badge/OPEN%20SNK%20PORTFOLIO-https%3A%2F%2Fshahneilkhan.github.io%2F-C99A45?style=for-the-badge"
+      alt="SNK Portfolio"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Visit my personal portfolio to explore my work, experience, expertise, and digital ecosystem.</strong>
+</p>
+
+<p align="center">
+  🔗 <a href="https://shahneilkhan.github.io/"><strong>https://shahneilkhan.github.io/</strong></a>
+</p>
+
+---
+
+# SHAH NEIL KHAN | SNK
+
+## About
+
+Hi, I'm **Shah Neil Khan (SNK)**.
+
+I work across **UX, digital experiences, systems thinking, creative direction, and AI-assisted workflows**.
+
+My approach is simple:
+
+> **Think deeply. Design clearly. Build intentionally.**
+
+I focus on understanding the problem before building the solution — combining strategy, design, technology, and clear thinking to create meaningful digital experiences.
+
+---
+
+## What I Do
+
+### UX Strategy
+
+Turning complex problems into clear, useful, and human-centered experiences.
+
+### Digital Experience
+
+Designing thoughtful digital products, websites, and interfaces.
+
+### AI-Assisted Systems
+
+Using AI to improve research, ideation, workflows, problem solving, and execution.
+
+### Design Systems
+
+Creating consistent and scalable foundations for digital products.
+
+### Creative Direction
+
+Connecting visual language, brand identity, content, and product purpose.
+
+### Systems Thinking
+
+Understanding how people, products, content, technology, and workflows work together.
+
+---
+
+## Experience
+
+### UX Lead Digital Expert
+
+**Yaqeen Institute — Texas, USA · Remote**
+
+**2026 — Present**
+
+My work focuses on digital experience, UX thinking, and building better systems around how people interact with digital products and content.
+
+---
+
+# 🚀 SNK Portfolio
+
+My main portfolio is available here:
+
+<p align="center">
+  <a href="https://shahneilkhan.github.io/">
+    <img
+      src="https://img.shields.io/badge/🌐%20SHAH%20NEIL%20KHAN%20PORTFOLIO-C99A45?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Shah Neil Khan Portfolio"
+    />
+  </a>
+</p>
+
+### Portfolio Sections
+
+- 🏠 Home
+- 💼 Selected Work
+- 🤖 AI / Context Engineering
+- 🧠 Engineering Mindset
+- 🎯 Expertise
+- 💻 Experience
+- 👤 About
+- 🌐 SNK Brand / Ecosystem
+- 📩 Contact
+
+**Portfolio:**  
+https://shahneilkhan.github.io/
+
+---
+
+# 🌐 SNK Ecosystem
+
+The SNK ecosystem contains multiple brands, platforms, and digital destinations.
+
+These are **separate destinations**, not invented portfolio case studies.
+
+| Brand | Website |
+|---|---|
+| **WebsitesDeal.com** | https://websitesdeal.com/ |
+| **TabayyunTV.com** | https://www.tabayyuninstitute.com/ |
+| **SNKITInstitute** | https://snkitinstitute.github.io/ |
+| **Sarakāt Agency** | https://sarakatagency.github.io/ |
+| **SNK Design** | https://snkdesign.github.io/ |
+
+---
+
+# 💼 Selected Work
+
+Actual projects and case studies will be added as they are finalized.
+
+I prefer to publish:
+
+- Real project information
+- Verified project links
+- Screenshots
+- My actual role
+- Technology / tools used
+- Design decisions
+- Real outcomes
+
+I do **not** use invented metrics or fake project claims.
+
+### Explore My Work
+
+<p align="center">
+  <a href="https://shahneilkhan.github.io/projects.html">
+    <img
+      src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-000000?style=for-the-badge"
+      alt="View Projects"
+    />
+  </a>
+</p>
+
+---
+
+# 🧠 Engineering Mindset
+
+My work is driven by four principles:
+
+### 01 — Understand
+
+Understand the problem, people, context, and constraints.
+
+### 02 — Structure
+
+Turn complexity into a clear system.
+
+### 03 — Design
+
+Create an experience that is useful, understandable, and intentional.
+
+### 04 — Build
+
+Turn the idea into a working digital product.
+
+---
+
+# 🛠️ Tech & Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/UX%20Strategy-111111?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Digital%20Experience-111111?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/AI%20Workflows-111111?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Design%20Systems-111111?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Systems%20Thinking-111111?style=for-the-badge" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Git- F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+</p>
+
+---
+
+# 🔗 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/company/iamsnkbd">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<a href="https://instagram.com/iamsnkbd">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
-  <a href="https://github.com/ishahneilkhan/css">
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  </a>
+<a href="https://facebook.com/iamsnkbd">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
 
-  <a href="https://github.com/ishahneilkhan/javascript">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  </a>
+<a href="https://youtube.com/c/shahneilkhan">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 
-  <a href="https://github.com/ishahneilkhan/react">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  </a>
+<a href="https://github.com/shahneilkhan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-  <a href="https://github.com/ishahneilkhan/nodejs">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/ishahneilkhan/mongodb">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  </a>
 </p>
 
-
-
-
-
-## SHAH NEIL KHAN | SNK 
+### SNK Design
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shahneilkhan/Gellery/main/Frame%20427319534.svg" alt="Cover Image" width="1000"/>
+
+<a href="https://behance.net/thesnkdesign">
+<img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
+</a>
+
+<a href="https://dribbble.com/thesnkdesign">
+<img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
+</a>
+
 </p>
 
+---
 
+# 📁 Repository
 
-[![Follow @ishahneilkhan](https://img.shields.io/badge/Follow-@ishahneilkhan-black?style=for-the-badge&logo=github)](https://github.com/ishahneilkhan)
+**GitHub Profile:**  
+https://github.com/shahneilkhan
 
+**Portfolio Repository:**  
+https://github.com/shahneilkhan/shahneilkhan.github.io
 
+**Live Website:**  
+https://shahneilkhan.github.io/
 
-## Hi there 👋
+---
 
-I'm a full-time **Flutter Developer** passionate about crafting sleek, high-performance mobile applications.  
-I specialize in building cross-platform apps with clean UI/UX and robust functionality.  
-Let's turn great ideas into smooth mobile experiences!
+# ⭐ Support
 
-#### YOUTUBE
-<a href="https://www.youtube.com/@design2codewithSNK" target="_blank">🎥 Visit My YouTube Channel</a>
+If you find my work interesting, feel free to:
+
+- ⭐ Star a repository
+- 👀 Explore my portfolio
+- 🔗 Connect with me
+- 💬 Share feedback
+
+---
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=hfaQL5SmNB4" target="_blank">
-    <img src="https://img.youtube.com/vi/hfaQL5SmNB4/maxresdefault.jpg" alt="How to create first flutter project in android studio 2024" width="900"/>
-  </a>
+
+<a href="https://shahneilkhan.github.io/">
+<img src="https://img.shields.io/badge/🌐%20VISIT%20MY%20WEBSITE-C99A45?style=for-the-badge" />
+</a>
+
 </p>
-
-
-### PROJECTS
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/ishahneilkhan/Gallery/blob/main/Frame%2034.svg" target="_blank">
-        <img src="https://raw.githubusercontent.com/ishahneilkhan/Gallery/main/Frame%2034.svg" alt="Design 1" width="250" />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/ishahneilkhan/Gallery/blob/main/Frame%2035.svg" target="_blank">
-        <img src="https://raw.githubusercontent.com/ishahneilkhan/Gallery/main/Frame%2035.svg" alt="Design 2" width="250" />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/ishahneilkhan/Gallery/blob/main/Frame%2036.svg" target="_blank">
-        <img src="https://raw.githubusercontent.com/ishahneilkhan/Gallery/main/Frame%2036.svg" alt="Design 3" width="250" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/ishahneilkhan/Gallery/blob/main/Frame%2034.svg" target="_blank">
-        <img src="https://raw.githubusercontent.com/ishahneilkhan/Gallery/main/Frame%2034.svg" alt="Design 1" width="250" />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/ishahneilkhan/Gallery/blob/main/Frame%2035.svg" target="_blank">
-        <img src="https://raw.githubusercontent.com/ishahneilkhan/Gallery/main/Frame%2035.svg" alt="Design 2" width="250" />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/ishahneilkhan/Gallery/blob/main/Frame%2036.svg" target="_blank">
-        <img src="https://raw.githubusercontent.com/ishahneilkhan/Gallery/main/Frame%2036.svg" alt="Design 3" width="250" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-
-
-## Tech Stack
 
 <p align="center">
-  <a href="https://github.com/ishahneilkhan/HTML">
-    <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/ishahneilkhan/CSS">
-    <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/ishahneilkhan/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/ishahneilkhan/React">
-    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/ishahneilkhan/Node.js">
-    <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/ishahneilkhan/Express">
-    <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/ishahneilkhan/MongoDB">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/ishahneilkhan/REST-API">
-    <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/ishahneilkhan/GraphQL">
-    <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/ishahneilkhan/Git">
-    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/ishahneilkhan/GitHub">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/ishahneilkhan/Bootstrap">
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/ishahneilkhan/VS-Code">
-    <img src="https://img.shields.io/badge/VS_Code-0078D7?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/ishahneilkhan/NPM">
-    <img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge" />
-  </a>
+  <strong>I BUILD SYSTEMS. I TRAIN MINDS. I CREATE IMPACT.</strong>
 </p>
 
-
-### GitHub Stars
-
-![ShahNeilKhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=iShahNeilKhan&show_icons=true&theme=radical)
-
-
-### Top Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iShahNeilKhan&layout=compact&theme=radical)
-
-### Contribution streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iShahNeilKhan&theme=radical)
-
-### Visitor Counter
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=iShahNeilKhan.iShahNeilKhan)
-
-### GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=iShahNeilKhan&theme=radical)
-
-### Pinned Projects / Portfolio
-Highlight a few key repositories with descriptions and links:
-### Featured Projects
-
-- [ProjectName](https://github.com/username/projectname) - Short description about the project.
-- [AnotherProject](https://github.com/username/anotherproject) - What it does and why it’s cool.
-
-
-### Reach me at
-
-[![Connect](https://img.shields.io/badge/Connect-black?style=for-the-badge)](mailto:thesnkgraphic@email.com)
-
-**Email:** 
-
-[thesnkgraphic@email.com](mailto:thesnkgraphic@email.com)
-
-**WhatsApp Contact:** 
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/8801705633700)
-
-
-### Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/company/iamsnkbd/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://facebook.com/iamsnkbd)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/iamsnkbd)
-[![Linktree](https://img.shields.io/badge/Linktree-06C755?logo=linktree&logoColor=white&style=for-the-badge)](https://linktr.ee/iamsnkbd) 
-[![bio.link](https://img.shields.io/badge/bio.link-06C755?logo=bio&logoColor=white&style=for-the-badge)](https://shahneilkhan.bio.link)
-
-
-*Thanks for visiting my profile! 😊*
-
-
-### Icon 
-
-(https://github.com/shahneilkhan/Gallery)
-
-
-## 👋 About Me
-
-Hi there! I am **Shah Neil Khan**, a **Full Stack MERN Developer** passionate about creating dynamic and responsive web applications.  
-I specialize in **MongoDB, Express, React, Node.js**, and building robust backend APIs with smooth frontend interfaces.  
-
-
-## 🚀 Projects / Portfolio
-
-| Project Name | Description | Link |
-| ------------ | ----------- | ---- |
-| MERN Blog App | Full Stack blog platform with CRUD & authentication | [Repo](https://github.com/ishahneilkhan/MERN-Blog-App) |
-| E-commerce App | MERN-based e-commerce web application | [Repo](https://github.com/ishahneilkhan/MERN-Ecommerce) |
-| Chat App | Real-time MERN chat application using Socket.io | [Repo](https://github.com/ishahneilkhan/MERN-Chat-App) |
-
-
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/iamsnkbd/)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://facebook.com/iamsnkbd)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/iamsnkbd)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:thesnkgraphic@email.com)  
-
-
-*Thanks for visiting my profile! 😊*
-
-# Shopify Category Slider
-
-<img src="https://raw.githubusercontent.com/shahneilkhan/ShopByCatagories/main/Screenshot_28.png" alt="{{ collection.title }}">
-
-
-# Shopify Category Slider Section
-
-This is a **custom Shopify section** for displaying a category slider with the following features:
-
-- Editable heading
-- Title editable per block
-- Optional icon/image
-- Autoplay 2.5 sec
-- Right-to-left scroll (RTL)
-- Hover zoom effect
-- No arrows
-- Icon size 60px
-- Max 20 icons
-- 10 icons visible on desktop, 3 icons on mobile/tablet
-- Clean solid card design
-- Fully Shopify compatible, no Liquid errors
-
-A **custom Shopify section** for displaying category icons in a responsive, interactive slider.  
-
-This section is designed for Shopify stores to showcase categories or collections in a visually appealing slider.  
-Each block can have an optional icon/image, a title, and a link to the category page.  
-It’s fully responsive, mobile-friendly, and provides a clean hover zoom effect for better UX.  
-
+<p align="center">
+  © Shah Neil Khan — SNK
+</p>
