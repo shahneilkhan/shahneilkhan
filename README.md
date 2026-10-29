@@ -6,7 +6,7 @@
   />
 </p>
 
-<h1 align="center">Shah Neil Khan — SNK</h1>
+<h1 align="center">Shah Neil Khan | SNK</h1>
 
 <p align="center">
   <strong>UX Lead Digital Expert · Product & Digital Experience · AI-Assisted Systems</strong>
@@ -33,7 +33,7 @@
 ## 🌐 My Website
 
 <p align="center">
-  <a href="https://shahneilkhan.github.io/">
+  <a href="https://shahneilkhan.snkbp.com/">
     <img
       src="https://img.shields.io/badge/OPEN%20SNK%20PORTFOLIO-https%3A%2F%2Fshahneilkhan.github.io%2F-C99A45?style=for-the-badge"
       alt="SNK Portfolio"
@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-  🔗 <a href="https://shahneilkhan.github.io/"><strong>https://shahneilkhan.github.io/</strong></a>
+  🔗 <a href="https://shahneilkhan.github.io/"><strong>https://shahneilkhan.snkbp.com/</strong></a>
 </p>
 
 ---
