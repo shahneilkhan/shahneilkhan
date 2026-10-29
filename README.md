@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://shahneilkhan.github.io/">
+  <a href="https://shahneilkhan.snkbo.com/">
     <img
       src="https://img.shields.io/badge/🌐%20VISIT%20MY%20WEBSITE-Shah%20Neil%20Khan-000000?style=for-the-badge&labelColor=C99A45"
       alt="Visit Shah Neil Khan Portfolio"
