@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/shahneilkhan">GitHub</a> ·
+  <a href="https://snkbp.com">SNK</a> ·
   <a href="https://www.linkedin.com/company/iamsnkbd">LinkedIn</a> ·
   <a href="https://instagram.com/iamsnkbd">Instagram</a> ·
   <a href="https://youtube.com/c/shahneilkhan">YouTube</a>
@@ -35,7 +35,7 @@
 <p align="center">
   <a href="https://shahneilkhan.snkbp.com/">
     <img
-      src="https://img.shields.io/badge/OPEN%20SNK%20PORTFOLIO-https%3A%2F%2Fshahneilkhan.github.io%2F-C99A45?style=for-the-badge"
+      src="https://img.shields.io/badge/OPEN%20SNK%20PORTFOLIO-https%3A%2F%2Fshahneilkhan.snkbp.com%2F-C99A45?style=for-the-badge"
       alt="SNK Portfolio"
     />
   </a>
